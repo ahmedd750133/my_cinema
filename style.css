@@ -1,0 +1,94 @@
+.bd ,body{
+	background-color: gainsboro;
+}
+h1{background-color:#636363;
+color:rgb(2, 2, 2);
+text-decoration: none;}
+
+table{
+	border-collapse: collapse;
+	width: 500px;
+	margin-left: 35%;
+}
+td {
+	padding: 13px;
+}
+th{
+	background-color: #54585d;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 13px;
+	border: 1px solid #54585d;
+	
+}
+td {
+	color: #636363;
+	border: 1px solid #dddfe1;
+	margin-left: 5em;
+}
+tr {
+	background-color: #f9fafb;
+}
+
+.btn1 ,.btn2,a{
+    font-size:x-large;
+   border-radius: 5px;
+   background-color: gray;
+   text-decoration: none;
+   color: wheat;
+}
+.ahh{
+	color: gray;
+	margin: 1px;
+}
+
+i{
+  
+ font-size: xx-large;
+}
+
+header{
+	background-color: grey;
+}
+.img{
+	height: 30em;
+    width: 116em;
+}
+.hh{
+	height: 20em;
+	width: 50em;
+	margin-left: 30em;
+	
+}
+#promo {
+    animation: Test 1s infinite;
+    text-align:center; font-size: 40px;
+	color: red;}
+
+@keyframes Test {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+		opacity: 1;} }
+
+
+section{
+	margin: 3em;
+	margin-left: 42%;
+}
+		
+footer{
+	background-color: gray;
+
+}
+.contact,.suivre {
+    text-align: center;
+	font-size: 20px;}
+
+ div button{
+	margin-left: 30%;
+}
